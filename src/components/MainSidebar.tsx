@@ -33,26 +33,6 @@ const toolSections: ToolSection[] = [
       { name: "Save Project", icon: Save },
       { name: "History", icon: History },
     ]
-  },
-  {
-    title: "Basic Editing",
-    icon: Sliders,
-    tools: [
-      { name: "Crop & Resize", icon: Crop },
-      { name: "Rotate", icon: RotateCw },
-      { name: "Adjustments", icon: Sliders },
-      { name: "Color Balance", icon: Palette },
-    ]
-  },
-  {
-    title: "Filters & Effects",
-    icon: Wand2,
-    tools: [
-      { name: "Artistic Filters", icon: Filter },
-      { name: "AI Enhancement", icon: Wand2 },
-      { name: "Layer Effects", icon: Layers },
-      { name: "Custom Filter", icon: ImageIcon },
-    ]
   }
 ];
 
